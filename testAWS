@@ -116,3 +116,4 @@ def compareUsers(oldList, newList,mfaSet):
             final['created'].update({newU['userID']:newU}) 
     return final
 
+#test
